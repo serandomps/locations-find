@@ -1,0 +1,22 @@
+{
+  "name": "locations-find",
+  "description": "locations-find component",
+  "local": [],
+  "styles": [
+    "styles.css"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "templates": [
+    "template.html"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "serandomps/dust": "master",
+    "serandomps/serand": "master",
+    "serandomps/utils": "master",
+    "serandomps/form": "master",
+    "serandomps/validators": "master"
+  }
+}
